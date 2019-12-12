@@ -11,7 +11,7 @@ docker build -t winos_dotnet_aws .
 
 ----
 # Reference
-## Move Docker image for Windows on macOS
+Move Docker image for Windows on macOS
 * https://github.com/StefanScherer/windows-docker-machine
 
 
